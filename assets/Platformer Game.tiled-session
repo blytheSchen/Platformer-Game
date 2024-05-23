@@ -1,0 +1,126 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/hello/OneDrive/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1.190798611111111,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 202.80507362589296,
+                "y": 295.18005540166206
+            }
+        },
+        "C:/Users/hello/OneDrive/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 862,
+                "y": 203.75
+            }
+        },
+        "platformer-level-1.tmx#1": {
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#dungeon_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#dungeon_tilemap_packed_bigger": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#dungeon_tilemap_packed_bigger_alt": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#farm_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#food_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#industrial_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#industrial_tilemap_packed_alt": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#night_sky": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#night_sky1": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#night_sky_1": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#night_sky_2": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#night_sky_3": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#night_sky_4": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#platform_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#town_tilemap": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#town_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#urban_tilemap": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#urban_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#urban_tilemap_packed_bigger": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/hello/OneDrive/CMPM120/PlatformerGame/assets",
+    "last.imagePath": "C:/Users/hello/OneDrive/CMPM120/PlatformerGame/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 40,
+    "openFiles": [
+        "platformer-level-1.tmx"
+    ],
+    "project": "Platformer Game.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmx",
+        "C:/Users/hello/OneDrive/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
